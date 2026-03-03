@@ -1,0 +1,15 @@
+# Build directory
+build/
+
+# Compiled objects
+*.o
+*.out
+
+# Executables
+main
+
+# macOS
+.DS_Store
+
+# macOS debug symbols
+*.dSYM/
